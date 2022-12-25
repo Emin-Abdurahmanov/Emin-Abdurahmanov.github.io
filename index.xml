@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>My New Hugo Site</title>
+    <description></description>
+    <link>http://Emin-Abdurahmanov.github.io</link>
+    
+    <language>en</language>
+    <copyright>Copyright 2022, Calvin Tran</copyright>
+    <lastBuildDate>Sun, 25 Dec 2022 11:53:07 +0200</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
+    <atom:link href="http://Emin-Abdurahmanov.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://Emin-Abdurahmanov.github.io/posts/blog/</link>
+      <description>&lt;p&gt;Hello my name is Emin Abdurahmanov and welcome to my blog!
+Here, I will write about any topic that interests me and about my thoughts.&lt;/p&gt;
+</description>
+      <author></author>
+      <guid>http://Emin-Abdurahmanov.github.io/posts/blog/</guid>
+      <pubDate>Sun, 25 Dec 2022 11:53:07 +0200</pubDate>
+    </item>
+    
+  </channel>
+</rss>
