@@ -6,7 +6,17 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Dec 2022 11:53:07 +0200</lastBuildDate><atom:link href="http://Emin-Abdurahmanov.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Dec 2022 12:27:38 +0200</lastBuildDate><atom:link href="http://Emin-Abdurahmanov.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post2</title>
+      <link>http://Emin-Abdurahmanov.github.io/posts/post2/</link>
+      <pubDate>Sun, 25 Dec 2022 12:27:38 +0200</pubDate>
+      
+      <guid>http://Emin-Abdurahmanov.github.io/posts/post2/</guid>
+      <description>My Pet Alligator Data about my pet alligator:
+{ &amp;#34;name&amp;#34;: &amp;#34;Alli&amp;#34;, &amp;#34;age&amp;#34;: 5, &amp;#34;born&amp;#34;: 2017, &amp;#34;kills&amp;#34;: 0 } </description>
+    </item>
+    
     <item>
       <title>Blog</title>
       <link>http://Emin-Abdurahmanov.github.io/posts/blog/</link>
